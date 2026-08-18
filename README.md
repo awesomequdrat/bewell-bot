@@ -124,6 +124,9 @@ The current prototype stores conversation text in a local SQLite database. Do no
 
 The original hackathon code used an older OpenAI SDK calling style. This public-ready version updates the API calls to the current OpenAI Python client while preserving the prototype's core architecture.
 
-## Credits
+## Contributors
 
-Built as a team project at Axe Hacks. Add the names and GitHub profiles of all contributors here before publishing the repository publicly.
+- [Qudrat Siyal](https://github.com/awesomequdrat)
+- [chiru-2001](https://github.com/chiru-2001)
+
+Built collaboratively as a team project for **Axe Hacks** in March 2025.
